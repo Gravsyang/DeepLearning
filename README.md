@@ -1,2 +1,1 @@
-# DeepLearning
-Deep Learning Study
+Play with DeepLearning
